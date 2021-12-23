@@ -18,7 +18,7 @@
 
 .image_responsive{
     width: 140%;
-    margin-top: 34;
+    margin-top: 54;
 }
 
 .the_cold{
@@ -30,4 +30,8 @@ body{
     text-align: center;
     background-color: darkturquoise;
     font-size: 19;
+}
+
+.image_response{
+    margin-top: 14%;
 }
